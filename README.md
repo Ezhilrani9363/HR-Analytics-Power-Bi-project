@@ -19,7 +19,7 @@ This project is an interactive **HR Analytics Dashboard** developed using **Micr
 
 ## 📈 Dashboard Preview
 
-![HR Analytics Dashboard]((https://github.com/Ezhilrani9363/HR-Analytics-Power-Bi-project/blob/main/screenshots/dashboard.png))
+![HR Analytics Dashboard](https://github.com/Ezhilrani9363/HR-Analytics-Power-Bi-project/blob/main/screenshots/dashboard.png)
 
 ---
 
